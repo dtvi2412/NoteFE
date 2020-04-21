@@ -1,0 +1,44 @@
+npm install bootstrap jquery popper.js --save  cai dat bootstrap 
+
+cai dat react -> npm install -g create-react-app
+		create-react-app tenFile
+
+cai thu vien router -> npm install react-router-dom --save
+cai dat axios de lay api -> npm install axios --save
+cai dat  giai quyet bat dong bo tren store -> npm install redux-thunk --save
+dong bo du lieu truoc khi len store -> REDUX THUNK HOAC REDUX SAGA
+
+SETTING VISUAL CODE :=> Format on save , tu dong format code sau khi Ctrl + S
+
+react k ho tro scss -> cai dat trong termital lenh : npm i --save-dev node-sass
+
+Lenh compile file scss qua file css -> sass --watch scss/style.scss:css/style.css
+
+-> test token bang post
+->Header -> co Authorization
+  Value-> Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiZHBuZ3V5ZW4iLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJRdWFuVHJpIiwibmJmIjoxNTg1OTg2OTg3LCJleHAiOjE1ODU5OTA1ODd9.dZ2GVMihBmMtpN9ufCltzxm9ElppQ_ZoryhKW7nYcvU
+->Content-Type va Application/json
+
+Viet JSS  HOAC MATERIAL -> https://styled-components.com/
+
+Dung mot trong 3 cach de cho WEB DONG BO -> CALLBACK , PROMISE , asyn await
+
+
+->> Children trong React
+
+-----------------BOOTSTRAP---------------------------------
+col- < 576px
+col-sm- >=576px
+col-md- >=768px
+col-lg- >= 992px
+col-xl- >=1200px
+
+
+-----------------ANGULAR--------------------------------
+
+npm install typescript -g , cai dat typescript
+tsc --init , cai file build
+
+ctrl shift P -> task:Confirue Default Build Task -> Build : tao file -> Watch : tu dong save
+$ npm install -g @angular/cli -> cai dat de chay project
+
