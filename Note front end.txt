@@ -42,3 +42,10 @@ tsc --init , cai file build
 ctrl shift P -> task:Confirue Default Build Task -> Build : tao file -> Watch : tu dong save
 $ npm install -g @angular/cli -> cai dat de chay project
 
+
+  background: linear-gradient(to bottom, rgba(0, 176, 155, 0.5), rgba(150, 201, 61, 1));
+
+ti thieu 5xi. 20-5-2020
+
+https://glyphsearch.com/ font ansome
+
