@@ -48,4 +48,40 @@ $ npm install -g @angular/cli -> cai dat de chay project
 ti thieu 5xi. 20-5-2020
 
 https://glyphsearch.com/ font ansome
+--------------
+Su dung ham entries de duyet doi tuong thanh mang~ ( {} => [] )
+  Object.entries(name)
 
+Film platform]
+
+Duyet doi tuong {} dung for in => for ( let key in ...)
+Duyet mang [] for of => (let key of ...)
+Film Hau ve than sam
+
+bubble css -> Mui ten tro vao hinh do
+
+clone web app : 2.58
+
+
+https://api.covid19api.com/dayone/country/viet-nam
+
+express NODE JS -> LIRBARY -> NODEJS
+->npm i express --save
+--> express appname
+--> npm install
+->>npm start ->port : 3000 :can change port ->>bin..
+
+link shop : https://www.wix.com/website-template/view/html/2175?siteId=f079a559-b478-4643-a17b-13edb1ee067b&metaSiteId=f9bf8eee-6569-46fa-b4e8-e6b8ca8990c1&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fonline-store&tpClick=view_button
+
+Portofio -> https://www.behance.net/gallery/98981645/PORTFOLIO?tracking_source=search_projects_recommended%7Cportfolio%20%20website
+
+https://www.ciucacristi.tk/velo/?i=99729&pr_code=ZKah0do96eX7576bAWsVLFG03zBiHf#services
+https://webdevstudios.com/portfolio/
+
+cau do :https://ahaslides.com/vi/blog/170-general-knowledge-quiz-questions-and-answers-for-your-next-virtual-pub-quiz/
+Port Clone : https://preview.themeforest.net/item/skylith-viral-creative-multipurpose-html-template/full_screen_preview/21214857?clickid=Rh5wXMxz4xyLUAZwUx0Mo3QWUkE2viyVZW8R1A0&iradid=275988&iradtype=ONLINE_TRACKING_LINK&irgwc=1&irmptype=mediapartner&irpid=369282&mp_value1=&utm_campaign=af_impact_radius_369282&utm_medium=affiliate&utm_source=impact_radius
+
+DOM : https://viblo.asia/p/hieu-sao-ve-virtual-dom-trong-reactjs-bWrZngDblxw
+
+Glidejs.com -> Animation Slide
+Swiper Scroll 
