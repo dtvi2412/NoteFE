@@ -85,3 +85,9 @@ DOM : https://viblo.asia/p/hieu-sao-ve-virtual-dom-trong-reactjs-bWrZngDblxw
 
 Glidejs.com -> Animation Slide
 Swiper Scroll 
+
+Handle Navbar open if false , set media -> 1275 -> OPEN NAV
+    const handleOpenNav = () => setNavHambugar(true);
+    window.matchMedia('(min-width:1275px').addListener(handleOpenNav);
+
+CSS - > cubic-bezier
